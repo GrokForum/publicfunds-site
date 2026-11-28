@@ -7,6 +7,13 @@
  "language": "en-ZA",
  "items": [
   {
+   "id": "B20261128T012704Z-de6ca83cbedc6d98",
+   "url": "https://publicfunds.grokforum.site/apps/public-dashboard/#/changes",
+   "title": "New public data: build B20261128T012704Z",
+   "content_text": "Figures updated or corrected in: departments.json, municipalities.json, prices.json.",
+   "date_published": "2026-11-28T03:33:52+02:00"
+  },
+  {
    "id": "B20261127T011844Z-0e0fbfc10e56ab9a",
    "url": "https://publicfunds.grokforum.site/apps/public-dashboard/#/changes",
    "title": "New public data: build B20261127T011844Z",
@@ -208,13 +215,6 @@
    "title": "New public data: build B20261025T011220Z",
    "content_text": "+7 fuel price rows (now 658).",
    "date_published": "2026-10-25T03:13:15+02:00"
-  },
-  {
-   "id": "B20261024T010413Z-094cd4504b4e5bb5",
-   "url": "https://publicfunds.grokforum.site/apps/public-dashboard/#/changes",
-   "title": "New public data: build B20261024T010413Z",
-   "content_text": "+42 fuel price rows (now 651). +18 CPI months (now 223).",
-   "date_published": "2026-10-24T03:04:58+02:00"
   }
  ]
 }
